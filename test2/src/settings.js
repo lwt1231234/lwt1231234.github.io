@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],rawAssets:{assets:{}},assetTypes:[],launchScene:"db://assets/Scene/helloworld.fire",scenes:[{url:"db://assets/Scene/helloworld.fire",uuid:"2dL3kvpAxJu6GJ7RdqJG5J"}],packedAssets:{},orientation:"",uuids:[]};
